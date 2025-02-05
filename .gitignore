@@ -37,7 +37,4 @@ out/
 .vscode/
 
 
-# Ignore Firestore Key in a specific folder
-C:\Users\yinon\IdeaProjects\GeoApiServer\src\main\resources\firebase-key.json
-firebase-key.json
 
